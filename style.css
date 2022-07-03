@@ -1,9 +1,16 @@
 body{
     background-color: azure;
 }
+.center{
+    text-align: center;
+    border-bottom: 5px dashed green;
+    padding-bottom: 10px;
+    margin: 0 30%;
+}
 .heading{
     text-align: center;
     color: red;
+    margin-top: 10px;
 }
 #myname{
     color: blue;
