@@ -16,3 +16,17 @@ body{
     color: blue;
     font-size: 2em;
 }
+#mypic{
+    text-align: center;
+}
+#mypic img{
+    width: 200px;
+}
+#about{
+    text-align: center;
+    margin: 15px 10%;
+    background-color: aqua;
+    padding: 10px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+}
